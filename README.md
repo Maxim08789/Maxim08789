@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Maxim08789
-- 🌱 I’m currently learning frontend
+- 🌱 I’m currently learning frontend development
 - 💞️ I hope to work as a freelancer
